@@ -1,0 +1,5 @@
+run the codes in the following orders:
+
+1) run img_data_summary.py: this code will create two csv files that contain infomation on cam0 and cam1 images files and time
+2) run test_wass_module_config_input.py: this will make the input and config data accoring to the format needed for wass
+3) test_wass_module_parallel_run_output_calib_stereo run .py: this code will create the output data folder and run the stereo process 
